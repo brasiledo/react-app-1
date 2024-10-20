@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>128384423683-5k85f28av862em8ofaukur76mpv01cb8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.128384423683-5k85f28av862em8ofaukur76mpv01cb8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>128384423683-9vnfussc8sptmjta73vmfdtnnchf603n.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBLGFa-ZKOvY_KFZAbJ2xlZfEp4cu3zNJM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>128384423683</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.betterbudget.app</string>
+	<key>PROJECT_ID</key>
+	<string>react-native-better-budget-v2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>react-native-better-budget-v2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:128384423683:ios:185e21b06c9bce214afb36</string>
+</dict>
+</plist>

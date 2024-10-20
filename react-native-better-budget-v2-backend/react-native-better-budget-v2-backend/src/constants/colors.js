@@ -1,0 +1,21 @@
+export const White = '#ffffff';
+export const Black = '#000';
+export const Brazilian_Green = '#23695D';
+export const PlaceHolder = '#23695D7D';
+export const LightGreen = '#23695D';
+export const Red = '#FF0000';
+export const Medium_Red = '#B90000';
+export const Light_Coral = '#FF8181';
+export const LightDark = 'rgba(0, 0, 0, 0.1)';
+export const lightGray = '#F4F4F4';
+export const lightBlack = '#8B8B8B';
+export const Gray73 = '#BABABA';
+export const gray = '#9C9C9C';
+export const notification = 'rgba(255, 101, 101, 1)';
+export const BlackText = 'rgba(23, 23, 23, 1)';
+export const BlackText2 = 'rgba(67, 67, 67, 1)';
+export const ExpenseBtnColor = '#FF3F3F';
+export const textColor = '#434343';
+export const editBackground = '#D9D9D9';
+export const Blue = '#4F8CC9';
+//new

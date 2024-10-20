@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "128384423683",
+    "project_id": "react-native-better-budget-v2",
+    "storage_bucket": "react-native-better-budget-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128384423683:android:8f18dab0fc9042134afb36",
+        "android_client_info": {
+          "package_name": "com.betterbudget_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128384423683-9vnfussc8sptmjta73vmfdtnnchf603n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.betterbudget_v2",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "128384423683-n4seor7ra3ha8m1pbrnlfqn039ipj3sp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2kXirzqTXTtOU96ssbCZ1blmji0ig5sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128384423683-n4seor7ra3ha8m1pbrnlfqn039ipj3sp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
